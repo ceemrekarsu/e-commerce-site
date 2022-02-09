@@ -1,0 +1,13 @@
+/* Navbar */
+
+.navbar-nav a {
+    font-size: 18px;
+}
+
+.navbar-brand{
+    font-family: 'Patrick Hand', cursive;
+    text-decoration: none;
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #778f77;
+
+}
